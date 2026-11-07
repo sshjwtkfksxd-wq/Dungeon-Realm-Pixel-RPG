@@ -1,0 +1,8 @@
+{
+  "name": "Remix Dungeon Realm: Pixel RPG",
+  "description": "A retro pixel turn-based fantasy RPG with hero classes, dungeons, pets, and gacha.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
